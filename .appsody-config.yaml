@@ -1,0 +1,3 @@
+id: "20210115164703.43742000"
+project-name: customer-ms-spring
+stack: docker.io/kabanero/java-spring-boot2:0.3
